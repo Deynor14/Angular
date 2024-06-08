@@ -1,0 +1,10 @@
+*{
+    text-align: center;
+    background-color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(42, 199, 199);
+}
